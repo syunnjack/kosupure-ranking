@@ -140,6 +140,10 @@ footer p { margin:6px 0; }
 </section>
 </div>
 
+<div class="wrap" style="padding:24px 0;text-align:center;">
+<a href="https://track.bannerbridge.net/click.php?APID=74335&affID=70825&siteID=204737" rel="nofollow"><img src="https://track.bannerbridge.net/adgserv.php?APID=74335&affID=70825&siteID=204737" height="60" width="468" border="0" alt="" title=""></a>
+</div>
+
 <footer>
 <div class="wrap">
 <p>本サイトはFANZAアフィリエイトプログラムを利用し、DMM.com公式APIから取得したレビュー情報をもとに構成しています。詳細は必ずリンク先の公式ページでご確認ください。</p>
